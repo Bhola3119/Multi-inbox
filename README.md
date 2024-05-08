@@ -3,3 +3,8 @@
 
 
 this Tool For Multi Thread Ids Nad Enjoy For Free Tool
+
+
+# git clone https://github.com/Bhola3119/Multi-inbox
+# cd Multi-inbox
+# python Multi-Tool.py
